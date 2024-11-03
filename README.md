@@ -1,3 +1,3 @@
 # Purpose
 
-This repo contains the code examples from the book "Programming Massively Parallel Processors".
+This repo contains the self-study notes for the book "Programming Massively Parallel Processors".
